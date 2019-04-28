@@ -24,8 +24,10 @@
     "nodemon": "^1.18.11"
   },
   "devDependencies": {
+    "artillery": "^1.6.0-27",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
-    "grunt": "^1.0.4"
+    "grunt": "^1.0.4",
+    "newrelic": "^5.7.0"
   }
 }
